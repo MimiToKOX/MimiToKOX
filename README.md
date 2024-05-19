@@ -2,6 +2,8 @@
 
 Cześć👋! Jestem MimiToKOX i mam 14 lat. Jestem pasjonatem programowania od około 3 lat, a moją główną dziedziną są pluginy do Minecrafta
 
+https://wakatime.com/badge/user/5140a17f-48c5-4343-b03e-3906507f2edc.svg
+
 ## O mnie 💻
 
 - 💣 **Wiek:** 14 lat
