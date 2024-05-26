@@ -8,13 +8,15 @@ Hi👋! I'm MimiToKOX and I'm 14 years old. I've been passionate about programmi
 - 🔫 **Interests:** Programming, creating plugins for Minecraft, video editing and making animations in affter, animations in Blender, Discord bots, 
 - 🔮 **Programming experience:** Writing Minecraft plugins, creating Minecraft servers for the community, video editing, animations in Blender, creating Discord bots.
 
-# Stats
+# Stats ❤️ 
 
 [![wakatime](https://wakatime.com/badge/user/5140a17f-48c5-4343-b03e-3906507f2edc.svg)](https://wakatime.com/@5140a17f-48c5-4343-b03e-3906507f2edc)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MimiToKox&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MimiToKox&layout=compact&theme=radical)
+
+![](https://github-contributor-stats.vercel.app/api?username=MimiToKOX&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 
 ## My skills 💎
