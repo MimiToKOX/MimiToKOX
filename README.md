@@ -1,28 +1,28 @@
-# ❤️ Witaj Jestem MimiToKOX!❤️ 
+# ❤️ Hello I'm MimiToKOX!❤️ 
 
-Cześć👋! Jestem MimiToKOX i mam 14 lat. Jestem pasjonatem programowania od około 3 lat, a moją główną dziedziną są pluginy do Minecrafta
+Hi👋! I'm MimiToKOX and I'm 14 years old. I've been passionate about programming for about 3 years now, and my main area is plugins for Minecraft
 
 [![wakatime](https://wakatime.com/badge/user/5140a17f-48c5-4343-b03e-3906507f2edc.svg)](https://wakatime.com/@5140a17f-48c5-4343-b03e-3906507f2edc)
-## O mnie 💻
+## About me 💻
 
-- 💣 **Wiek:** 14 lat
-- 🔫 **Zainteresowania:** Programowanie, tworzenie pluginów do Minecrafta, montaż wideo oraz robienie animacji w affterze, animacje w Blenderze, boty Discord, 
-- 🔮 **Doświadczenie w programowaniu:** Pisanie pluginów do Minecrafta, tworzenie serwerów Minecraft dla społeczności, montaż wideo, animacje w Blenderze, tworzenie botów Discord
+- 💣 ** Age:** 14 years old.
+- 🔫 **Interests:** Programming, creating plugins for Minecraft, video editing and making animations in affter, animations in Blender, Discord bots, 
+- 🔮 **Programming experience:** Writing Minecraft plugins, creating Minecraft servers for the community, video editing, animations in Blender, creating Discord bots.
 
-## Moje umiejętności 💎
+## My skills 💎
 
-- 📁 **Programowanie:** Znam języki takie jak Java (do tworzenia pluginów Minecraft), Python (do tworzenia botów Discord) oraz inne języki programowania stosowane w tworzeniu aplikacji.
-- 🎉 **Tworzenie pluginów do Minecrafta:** Posiadam doświadczenie w tworzeniu pluginów do Minecrafta oraz w zarządzaniu serwerami Minecraft dla społeczności.
-- 📔 **Montaż wideo:** Mam doświadczenie w montażu filmów oraz tworzeniu treści wideo. Montuje w Adobe Premiere Pro oraz Affter Effects
-- 📐 **Animacje w AE** Umiem też tworzyć animacje w programie Adobe Affter Effects.
-- 🔗 **Animacje w Blenderze:** Potrafię tworzyć animacje przy użyciu Blendera.
-- 🤖 **Tworzenie botów Discord:** Posiadam umiejętności w tworzeniu botów na platformę Discord.
+- 📁 **Programming:** I am familiar with languages such as Java (for creating Minecraft plugins), Python (for creating Discord bots) and other programming languages used in application development.
+- 🎉 **Minecraft plugin creation:** I have experience in creating Minecraft plugins and managing Minecraft servers for the community.
+- 📔 **Video editing:** I have experience in video editing and video content creation. I edit in Adobe Premiere Pro and Affter Effects
+- 📐 **Animations in AE** I can also create animations in Adobe Affter Effects.
+- 🔗 **Animations in Blender:** I can create animations using Blender.
+- 🤖 **Discord bot creation:** I am skilled in creating bots for the Discord platform.
 
-## Projekty 📑
+## Projects 📑
 
-Aktualnie moje projekty dostępne to serwer z pluginami [MimiCode](https://dsc.gg/mimicode) na Discord, gdzie udostępniam swoje pluginy do Minecrafta. Ponadto posiadam doświadczenie w tworzeniu aplikacji, jednakże niektóre z nich nie są publicznie dostępne ze względów osobistych.
+My current projects available are a plugin server [MimiCode](https://dsc.gg/mimicode) on Discord, where I share my plugins for Minecraft. In addition, I have experience in app development, however some of them are not publicly available for personal reasons.
 
-## Kontakt 📛
+## Contact 📛
 
-🌀 Jeśli chcesz się ze mną skontaktować w sprawie współpracy lub masz pytania, śmiało napisz do mnie na Discordzie: mimitokox_
+🌀 If you want to contact me about collaborating or have questions, feel free to message me on Discord: mimitokox_
 
