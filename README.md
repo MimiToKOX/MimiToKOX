@@ -16,7 +16,7 @@ Hi👋! I'm MimiToKOX and I'm 14 years old. I've been passionate about programmi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MimiToKox&layout=compact&theme=radical)
 
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=mimitokox&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=MimiToKOX&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ## My skills 💎
 
