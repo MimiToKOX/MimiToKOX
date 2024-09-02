@@ -1,4 +1,4 @@
-# ❤️ Hello I'm MimiToKOX!❤️ 
+# ❤️ Hello I'm Mimitokox!❤️ 
 
 Hi👋! I'm MimiToKOX and I'm 14 years old. I've been passionate about programming for about 3 years now, and my main area is plugins for Minecraft
 
@@ -19,18 +19,23 @@ Hi👋! I'm MimiToKOX and I'm 14 years old. I've been passionate about programmi
 
 ## My skills 💎
 
-- 📁 **Programming:** I am familiar with languages such as Java (for creating Minecraft plugins), Python (for creating Discord bots) and other programming languages used in application development.
-- 🎉 **Minecraft plugin creation:** I have experience in creating Minecraft plugins and managing Minecraft servers for the community.
-- 📔 **Video editing:** I have experience in video editing and video content creation. I edit in Adobe Premiere Pro and Affter Effects
-- 📐 **Animations in AE** I can also create animations in Adobe Affter Effects.
-- 🔗 **Animations in Blender:** I can create animations using Blender.
-- 🤖 **Discord bot creation:** I am skilled in creating bots for the Discord platform.
+
+
+
 
 ## Projects 📑
 
-My current projects available are a plugin server [MimiCode](https://dsc.gg/mimicode) on Discord, where I share my plugins for Minecraft. In addition, I have experience in app development, however some of them are not publicly available for personal reasons.
+- MimiCode (dsc.gg/mimicode)
+...
+...
+...
+...
+...
+...
+...
+...
 
 ## Contact 📛
 
-🌀 If you want to contact me about collaborating or have questions, feel free to message me on Discord: mimitokox_
+Discord: mimitokox_
 
