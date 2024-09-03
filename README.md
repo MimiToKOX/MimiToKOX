@@ -1,7 +1,6 @@
 <div align="center">
- <p style="font-size: 24px; font-weight: bold;">tak</p>
+ <p style="font-size: 64px; font-weight: bold;">❤️ Hello I'm Mimitokox!❤️ </p>
 </div>
-# ❤️ Hello I'm Mimitokox!❤️ 
 
 Hi👋! I'm MimiToKOX and I'm 14 years old. I've been passionate about programming for about 3 years now, and my main area is plugins for Minecraft
 
