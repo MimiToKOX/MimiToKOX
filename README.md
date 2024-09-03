@@ -15,7 +15,7 @@ Hi👋! I'm MimiToKOX and I'm 14 years old. I've been passionate about programmi
   <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=MimiToKOX&theme=radical&layout=compact"/></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimiToKox&layout=compact&theme=radical"/></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimiToKox&hide_progress=false&theme=radical"/></p>
-  <p><img src="https://wakatime.com/badge/user/5140a17f-48c5-4343-b03e-3906507f2edc.svg&theme=radical"/></p>
+  <p><img src="https://wakatime.com/badge/user/5140a17f-48c5-4343-b03e-3906507f2edc.svg"/></p>
 
 </div>
 
@@ -28,19 +28,15 @@ Java,Python (not much), C++ (not much)
 ## Projects 📑
 
 - MimiCode (dsc.gg/mimicode)
-...
-...
-...
-...
-...
-...
-...
-...
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
 
 ## Contact 📛
 
 Discord: mimitokox_
-
-
-[![wakatime](https://wakatime.com/badge/user/5140a17f-48c5-4343-b03e-3906507f2edc.svg)](https://wakatime.com/@5140a17f-48c5-4343-b03e-3906507f2edc)
-
