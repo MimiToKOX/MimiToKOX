@@ -1,5 +1,5 @@
 <div align="center">
- <p style="font-size: 64px; font-weight: bold;">❤️ Hello I'm Mimitokox!❤️ </p>
+  <p style="font-size: 2.5em; font-weight: bold; margin: 0;">❤️ Mimitokox profile ❤️</p>
 </div>
 
 Hi👋! I'm MimiToKOX and I'm 14 years old. I've been passionate about programming for about 3 years now, and my main area is plugins for Minecraft
