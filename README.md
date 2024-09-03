@@ -16,7 +16,7 @@ Hi👋! I'm MimiToKOX and I'm 14 years old. I've been passionate about programmi
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimiToKox&hide_progress=false&theme=radical"/></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimiToKox&hide_progress=false&theme=radical"/></p>
 </div>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=5140a17f-48c5-4343-b03e-3906507f2edc)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MimiToKOX)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My skills 💎
 
