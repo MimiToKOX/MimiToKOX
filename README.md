@@ -23,7 +23,7 @@ Hi👋! I'm MimiToKOX and I'm 14 years old. I've been passionate about programmi
 ## Projects 📑
 
 - MimiCode (dsc.gg/mimicode)
-- none
+- PlagAI (discord.gg/plagai)
 - none
 - none
 - none
