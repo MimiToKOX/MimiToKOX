@@ -7,7 +7,7 @@ Hi👋! I'm MimiToKOX and I'm 14 years old. I've been passionate about programmi
 ## About me 💻
 
 - 💣 **Age:** 14 years old.
-- 🔫 **Interests:** Programming, Video edit, Creating 2d animations in adobe affter, Creating 3D animation in blender, Discord bot
+- 🔫 **Interests:** Programming, Video edit, Creating 2d animations in adobe affter, Creating 3D animation in blender, Discord bot, programing cheats for game, 
 - 🔮 **Programming:** Java, Python, C++ 
 
 # Stats ❤️  
