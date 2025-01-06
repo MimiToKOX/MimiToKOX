@@ -24,7 +24,7 @@ Hi👋! I'm MimiToKOX and I'm 14 years old, i'm femboy. I've been passionate abo
 
 - MimiCode (dsc.gg/mimicode)
 - PlagAI (discord.gg/plagai)
-- none
+- Exploitcore (dsc.gg/exploitcore)
 - none
 - none
 - none
