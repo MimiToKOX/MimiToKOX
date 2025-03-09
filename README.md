@@ -2,7 +2,7 @@
   <p style="font-size: 2.5em; font-weight: bold; margin: 0;">❤️ Mimitokox profile ❤️</p>
 </div>
 
-Hi👋! I'm MimiToKOX, i'm femboy. I've been passionate about programming for about 3 years now.
+Hi👋! I'm MimiToKOX I've been passionate about programming for about 3 years now.
 
 ## About me 💻
 
