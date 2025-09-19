@@ -16,7 +16,7 @@ Hi👋! I'm MimiToKOX I've been passionate about programming for about 3 years n
 - Creating AI API / AI aplication 
 - Creating game in Unity (C#)
 
-- 🔮 **Programming:** Java, Python, C# 
+- 🔮 **Programming:** Java, Python, C#, Html, CSS, JS, TypeScript, Taliwin CSS
 
 # Stats ❤️  
 (Wakatime nie używam od początku + idk dlaczego połowy nie zlicza)
