@@ -7,13 +7,13 @@ Hi👋! I'm MimiToKOX I've been passionate about programming for about 3 years n
 ## About me 💻
 
 - 🔫 **Some knowledge I have on the subject::** 
-- Programming (backend)
+- Programming (backend/frontend)
 - Cracking .jar (e.g. minecraft cheats/loaders)
 - Video edit 
 - Creating 2d animations in adobe affter 
 - Discord bots
 - Creating Cheats/mods (Minecraft fabric, external Cheats)
-- Creating AI API 
+- Creating AI API / AI aplication 
 - Creating game in Unity (C#)
 
 - 🔮 **Programming:** Java, Python, C# 
