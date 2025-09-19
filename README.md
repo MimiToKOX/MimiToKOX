@@ -8,7 +8,7 @@ Hi👋! I'm MimiToKOX I've been passionate about programming for about 3 years n
 
 - 🔫 **Some knowledge I have on the subject::** 
 - Programming (backend)
-- Cracking .jar files
+- Cracking .jar (e.g. minecraft cheats/loaders)
 - Video edit 
 - Creating 2d animations in adobe affter 
 - Discord bots
