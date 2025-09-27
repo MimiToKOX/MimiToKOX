@@ -8,15 +8,17 @@ Hi👋! I'm MimiToKOX I've been passionate about programming for about 3 years n
 
 - 🔫 **Some knowledge I have on the subject::** 
 - Programming (backend/frontend)
-- Cracking .jar (e.g. minecraft cheats/loaders)
 - Video edit 
 - Creating 2d animations in adobe affter 
 - Discord bots
 - Creating Cheats/mods (Minecraft fabric, external Cheats)
 - Creating AI API / AI aplication 
-- Creating game in Unity (C#)
 
 - 🔮 **Programming:** Java, Python, C#, Html, CSS, JS, TypeScript, Taliwin CSS
+
+- ❤️ **I'm still learning**
+- Cracking .jar (e.g. minecraft cheats/loaders) (Simple transformers / changing in assembly)
+- Creating game in Unity (C#)
 
 # Stats ❤️  
 (Wakatime nie używam od początku + idk dlaczego połowy nie zlicza)
