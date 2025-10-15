@@ -28,5 +28,5 @@ Hi👋! I'm MimiToKOX I've been passionate about programming for about 3 years n
 </div>
 
 ## Contact 📛
-
+ 
 Discord: mimitokox_
