@@ -23,7 +23,7 @@ Hi👋! I'm MimiToKOX I've been passionate about programming for about 3 years n
 # Stats ❤️  
 (Wakatime nie używam od początku + idk dlaczego połowy nie zlicza)
 <div align="center">
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MimiToKox&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
+  <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=MimiToKox&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/></p>
   <p><img src="https://wakatime.com/badge/user/5140a17f-48c5-4343-b03e-3906507f2edc.svg"/></p>
 </div>
 
