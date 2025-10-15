@@ -24,6 +24,7 @@ Hi👋! I'm MimiToKOX I've been passionate about programming for about 3 years n
 (Wakatime nie używam od początku + idk dlaczego połowy nie zlicza)
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=MimiToKox&theme=github_dark&layout=compact&hide_border=true&bg_color=0d1117&langs_count=10&custom_title=WakaTime%20Stats"/></p>
+  <p><img src="https://wakatime.com/share/@MimiToKox/cb262937-3d5a-4bbf-ba52-327f67de4aaa.svg"/></p>
   <p><img src="https://wakatime.com/badge/user/5140a17f-48c5-4343-b03e-3906507f2edc.svg"/></p>
 </div>
 
