@@ -23,7 +23,7 @@ Hi👋! I'm MimiToKOX I've been passionate about programming for about 3 years n
 # Stats ❤️  
 (Wakatime nie używam od początku + idk dlaczego połowy nie zlicza)
 <div align="center">
-  <p><img src="https://raw.githubusercontent.com/MimiToKox/MimiToKox/output/github-contribution-grid-snake.svg"/></p>
+  <p><img src="https://metrics.lecoq.io/MimiToKox?template=classic&base=header&base.indepth=true&languages=1&wakatime=1&wakatime.sections=time%2C%20projects%2C%20languages&wakatime.limit=4&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=MimiToKox&config.timezone=Europe%2FWarsaw"/></p>
   <p><img src="https://wakatime.com/badge/user/5140a17f-48c5-4343-b03e-3906507f2edc.svg"/></p>
 </div>
 
