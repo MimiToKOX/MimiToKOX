@@ -14,7 +14,9 @@ Hi👋! I'm MimiToKOX I've been passionate about programming for about 3 years n
 - Creating Cheats/mods (Minecraft fabric, external Cheats)
 - Creating AI API / AI aplication 
 
-- 🔮 **Programming:** Java, Python, C#, Html, CSS, JS, TypeScript, Taliwin CSS
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,html,css,js,ts,tailwind&perline=8" />
+</div>
 
 - ❤️ **I'm still learning**
 - Cracking .jar (e.g. minecraft cheats/loaders) (Simple transformers / changing in assembly)
@@ -23,8 +25,8 @@ Hi👋! I'm MimiToKOX I've been passionate about programming for about 3 years n
 # Stats ❤️  
 (Wakatime nie używam od początku + idk dlaczego połowy nie zlicza)
 <div align="center">
-    <p><img src="https://plagai.org/mimistats"/> </p>
-  <p><img src="https://wakatime.com/badge/user/5140a17f-48c5-4343-b03e-3906507f2edc.svg"/></p>
+  <p><img src="https://plagai.org/mimistats"/> </p>
+  <p><img src="https://plagai.org/mimistats?all"/></p>
 </div>
 
 ## Contact 📛
