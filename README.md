@@ -5,7 +5,7 @@
 <br>
 <b>What I Do</b> 💻<br>
 Programming • Video Editing • 2D Animation (AE)<br>
-Discord Bots • Cheats (MC fabric, external) • AI API<br>
+Discord Bots • Cheats (MC fabric, external) • AI API • Minecraft plugins/anticheats<br>
 <br>
 <img src="https://skillicons.dev/icons?i=java,python,cs,html,css,js,ts,tailwind&perline=8" /><br>
 <br>
@@ -13,9 +13,9 @@ Discord Bots • Cheats (MC fabric, external) • AI API<br>
 Reverse Engineering • Unity Game Dev • Assembly<br>
 <br>
 <b>Stats</b> 📊<br>
-<img src="https://plagai.org/mimistats"/><br>
+<img src="off"/><br>
 <br>
-<img src="https://plagai.org/mimistats?all"/><br>
+<img src="off"/><br>
 <br>
 <b>Contact</b> 📛<br>
 Discord: <code>mimitokox_</code><br>
