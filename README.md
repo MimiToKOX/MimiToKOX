@@ -13,7 +13,7 @@ Discord Bots • Cheats (MC fabric, external) • AI API • Minecraft plugins/a
 Reverse Engineering • Unity Game Dev • Assembly<br>
 <br>
 <b>Stats</b> 📊<br>
-<img src="https://mimistats.epsiloncode.pl/"/><br>
+<img src="http://mimistats.epsiloncode.pl"/><br>
 <br>
 <img src="off"/><br>
 <br>
