@@ -4,8 +4,8 @@
 <a style="text-decoration:none;" href="https://github.com/mimitokox">@mimitokox</a><br>
 <br>
 <b>What I Do</b> 💻<br>
-Programming (java, python, js) • Video Editing • 2D Animation (AE)<br>
-Discord Bots • Cheats (MC fabric, external/internal) • AI API • Minecraft plugins/anticheats/mods (backend)<br>
+Programming (java, python, js) • Minecraft mod (fabric) • Video Editing • 2D Animation (AE)<br>
+Discord Bots • AI API • Minecraft plugins/anticheats/mods (backend)<br>
 <br>
 <img src="https://skillicons.dev/icons?i=java,python,cs,html,css,js,ts,tailwind&perline=8" /><br>
 <br>
